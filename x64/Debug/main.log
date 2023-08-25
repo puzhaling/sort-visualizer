@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (visual_sort.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Проверка источников на наличие зависимостей модуля…
+  help_functions.cpp
+C:\Users\msolo\Desktop\Sort Visualizer (3)\libraries.h(4,10): fatal  error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  sort_functions.cpp
+C:\Users\msolo\Desktop\Sort Visualizer (3)\libraries.h(4,10): fatal  error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  main.cpp
+C:\Users\msolo\Desktop\Sort Visualizer (3)\libraries.h(4,10): fatal  error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Создание кода...
